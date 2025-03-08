@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+My name is Bart and I'm following a Bachelor in IT software development.
+
+- 🔭 I’m currently working on a cool website.
+- 🌱 I’m currently learning React, MySQL and PHP.
+
+
 <!--
 **BartKuijs/bartkuijs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
