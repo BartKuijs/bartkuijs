@@ -3,7 +3,7 @@ Hi there 👋
 My name is Bart and I'm pursuing a bachelor's degree in IT software development.
 
 - 🔭 I’m currently working on a cool website.
-- 🌱 I’m currently learning React, MySQL and PHP.
+- 🌱 I’m currently refreshing my knowlegde of C#.
 
 
 <!--
